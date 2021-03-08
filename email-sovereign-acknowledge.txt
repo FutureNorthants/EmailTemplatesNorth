@@ -1,9 +1,9 @@
 <html>
 <body>
-<div id="logo" style="width: 100%; background: #A52449;">
+<div id="logo" style="width: 100%; background: #05873A;">
   <center>
-    <A HREF="https://www.northampton.gov.uk">
-      <img style="border: none;" src="https://selfserve.northampton.gov.uk/mycouncil/images/logo.gif" alt="Northampton Borough Council Logo"/>
+    <A HREF="https://beta.northnorthants.gov.uk/">
+      <img style="border: none;" src="https://selfserve.northampton.gov.uk/mycouncil/images/NNClogo.gif" alt="North Northamptonshire Council Logo"/>
     </A>
   </center>
 <div style="font-family:'Lucida grande', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;background: #58686D;Color: White;font-size: 25px;text-align: center"> <label>Your call number is AAA</label></div>
@@ -11,25 +11,25 @@
 <div style="font-family:'Lucida grande', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;font-size: 13px;margin: 5px;text-align: left">
 <br>
 <br>
-Thank you for contacting West Northants Council. 
+Thank you for contacting our Customer Service Team at North Northamptonshire Council. We aim to respond to your enquiry within 5 working days.
 <br>
 <br>
-I can confirm your email has been passed to one of my colleagues in our customer service centres to review. You will receive a response within the next <b>5 working days.</b>
-<br>
-<br>
-Your original query to me was - 
-<br>
-<br>
-<B>FFF</b>
+Alternatively, the Council’s online facilities offer 24 hour access which allows you to raise service requests, make payments and access information; please visit www.northnorthamptonshire.gov.uk. 
 <br>
 <br>
 Kind Regards,
 <br>
 <br>
-<B>NNN - your Virtual Assistant</b>
-<BR>
-<BR>
-Please note if your enquiry is urgent, you can contact us on 0300 126 7000. You can find further information on West Northants Privacy Policy and how we process your personal information by visiting www.westnorthants.gov.uk/xxxxxx
+<B>Customer Services
+North Northamptonshire Council</b>
+<br>
+<br>
+<p style="color:#05873A;"><b>Why Wait, Go On-Line - www.northnorthamptonshire.gov.uk</b></p>
+<br>
+<br>
+If your query is of a more urgent nature or if you are a council tenant and have an emergency repair outside of our normal opening hours, please contact our CustomerServices Team on 0300 126 3000.
+<br>
+<br>
 </div>
 </body>
 </html>
