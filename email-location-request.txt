@@ -14,8 +14,7 @@
 Thank you for contacting North Northamptonshire Council. 
 <br>
 <br>
-<p style="color:red">INFORMATION REQUIRED:</p>
-<br>
+<p style="color:red"><b>INFORMATION REQUIRED:</b></p>
 <br>
 Please confirm the Town and Postcode <b>that your enquiry relates to</b> within the next 5 working days. If this is unknown, please confirm <b>your address</b>.  This will enable usto allocate your enquiry correctly/
 <br>
