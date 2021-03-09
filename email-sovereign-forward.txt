@@ -6,9 +6,9 @@
       <img style="border: none;" src="https://selfserve.northampton.gov.uk/mycouncil/images/NNClogo.gif" alt="North Northamptonshire Council Logo"/>
     </A>
   </center>
-<div style="font-family:'Lucida grande', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;background: #58686D;Color: White;font-size: 25px;text-align: center"> <label>Your call number is AAA</label></div>
+<div style="font-family:'Arial', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;background: #58686D;Color: White;font-size: 25px;text-align: center"> <label>Your call number is AAA</label></div>
 </div>
-<div style="font-family:'Lucida grande', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;font-size: 13px;margin: 5px;text-align: left">
+<div style="font-family:'Arial', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;font-size: 13px;margin: 5px;text-align: left">
 <br>
 <br>
 Dear ZZZ colleague
@@ -39,7 +39,6 @@ If this query should have been sent to ENC Hub - <a href="EEE">click here</a>.
 If this query should have been sent to BWC - <a href="EEE">click here</a>.
 <br>
 If this query should have been sent to CBC - <a href="EEE">click here</a>.
-<br>
 <br>
 If this query should have been sent to KBC - <a href="EEE">click here</a>.
 <br>
