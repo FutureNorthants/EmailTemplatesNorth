@@ -6,12 +6,12 @@
       <img style="border: none;" src="https://selfserve.northampton.gov.uk/mycouncil/images/NNClogo.gif" alt="North Northamptonshire Council Logo"/>
     </A>
   </center>
-<div style="font-family:'Arial', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;background: #58686D;Color: White;font-size: 25px;text-align: center"> <label>Your call number is AAA</label></div>
+<div style="font-family:'Arial', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;background: #58686D;Color: White;font-size: 25px;text-align: center"> <label>Query case reference number is AAA</label></div>
 </div>
 <div style="font-family:'Arial', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;font-size: 13px;margin: 5px;text-align: left">
 <br>
 <br>
-Dear ZZZ colleague
+Dear ZZZ Colleague
 <br>
 <br>
 The enquiry below was received by the North Northants Email Hub and requires action by your service.
@@ -20,7 +20,7 @@ The enquiry below was received by the North Northants Email Hub and requires act
 The customer's email is - <b>KKK</b>
 <br>
 <br>
-The customers query was - 
+The customer's query was - 
 <br>
 <br>
 <B>FFF</B>.
@@ -32,21 +32,26 @@ Please can you respond directly to the customer to resolve their query.
 The case has been automatically closed on our systems.
 <br>
 <br>
-If this query should have been sent to NCC - <a href="EEE">click here</a>.
+To Redirect:
 <br>
-If this query should have been sent to ENC Hub - <a href="EEE">click here</a>.
 <br>
-If this query should have been sent to BWC - <a href="EEE">click here</a>.
+to NCC - <a href="EEE">click here</a>.
 <br>
-If this query should have been sent to CBC - <a href="EEE">click here</a>.
+to ENC Hub - <a href="EEE">click here</a>.
 <br>
-If this query should have been sent to KBC - <a href="EEE">click here</a>.
+to BWC - <a href="EEE">click here</a>.
+<br>
+to CBC - <a href="EEE">click here</a>.
+<br>
+to KBC - <a href="EEE">click here</a>.
 <br>
 <br>
 Kind Regards 
 <br>
 Norbert
-<BR>
+<br>
+Email Hub Virtual Assistant
+<br>
 </div>
 </body>
 </html>
