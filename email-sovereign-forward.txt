@@ -6,15 +6,15 @@
       <img style="border: none;" src="https://selfserve.northampton.gov.uk/mycouncil/images/NNClogo.gif" alt="North Northamptonshire Council Logo"/>
     </A>
   </center>
-<div style="font-family:'Arial', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;background: #58686D;Color: White;font-size: 25px;text-align: center"> <label>Query case reference number is AAA</label></div>
+<div style="font-family:'Arial', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;background: #58686D;Color: White;font-size: 25px;text-align: center"> <label>Your query case reference number is AAA</label></div>
 </div>
-<div style="font-family:'Arial', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;font-size: 13px;margin: 5px;text-align: left">
+<div style="font-family:'Arial', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;font-size: 12px;margin: 5px;text-align: left">
 <br>
 <br>
 Dear ZZZ Colleague
 <br>
 <br>
-The enquiry below was received by the North Northants Email Hub and requires action by your service.
+The enquiry below was received by the North Northants Email Hub and requires action by your service area.
 <br>
 <br>
 The customer's email is - <b>KKK</b>
@@ -32,25 +32,28 @@ Please can you respond directly to the customer to resolve their query.
 The case has been automatically closed on our systems.
 <br>
 <br>
-To Redirect:
+To redirect the enquiry to:
 <br>
 <br>
-to NCC - <a href="EEE">click here</a>.
+NCC - <a href="EEE">click here</a>.
 <br>
-to ENC Hub - <a href="EEE">click here</a>.
+ENC - <a href="EEE">click here</a>.
 <br>
-to BWC - <a href="EEE">click here</a>.
+BWC - <a href="EEE">click here</a>.
 <br>
-to CBC - <a href="EEE">click here</a>.
+CBC - <a href="EEE">click here</a>.
 <br>
-to KBC - <a href="EEE">click here</a>.
+KBC - <a href="EEE">click here</a>.
+<br>
+West Hub - <a href="EEE">click here</a>.
 <br>
 <br>
 Kind Regards 
 <br>
-Norbert
 <br>
-Email Hub Virtual Assistant
+<b>Norbert
+<br>
+Email Hub Virtual Assistant</b>
 <br>
 </div>
 </body>
