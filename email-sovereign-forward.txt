@@ -45,8 +45,6 @@ KBC - <a href="EEE">click here</a>.
 <br>
 NCC - <a href="EEE">click here</a>.
 <br>
-West Hub - <a href="EEE">click here</a>.
-<br>
 <br>
 Kind Regards 
 <br>
