@@ -3,7 +3,7 @@
 <div id="logo" style="width: 100%; background: #05873A;">
   <center>
     <A HREF="https://beta.northnorthants.gov.uk/">
-      <img style="border: none;" src="https://selfserve.northampton.gov.uk/mycouncil/images/NNClogo.gif" alt="North Northamptonshire Council Logo"/>
+      <img style="border: none;" src="https://selfserve.northampton.gov.uk/mycouncil/images/NNClogo.png" alt="North Northamptonshire Council Logo"/>
     </A>
   </center>
 <div style="font-family:'Arial', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;background: #58686D;Color: White;font-size: 25px;text-align: center"> <label>Your query case reference is AAA</label></div>
@@ -16,13 +16,13 @@ Thank you for contacting North Northamptonshire Council.
 <br>
 <p style="color:red"><b>INFORMATION REQUIRED:</b></p>
 <br>
-Please confirm the Town and Postcode <b>that your enquiry relates to</b> within the next 5 working days. If this is unknown, please confirm <b>your address</b>.  This will enable us to allocate your enquiry correctly.
+Please confirm the <b>town and postcode that your enquiry relates to</b> within the next 5 working days. If this is unknown, please confirm <b>your address</b>.  This will enable us to allocate your enquiry correctly.
 <br>
 <br>
 Unfortunately, we are unable to process your enquiry until we receive this information.  If we do not receive this information within 5 working days, we will close your enquiry, however we can reopen this for you once the information is received.  
 <br>
 <br>
-Alternatively, the Council’s online facilities offer 24 hour access which allows you to raise service requests, make payments and access information; please visit www.northnorthamptonshire.gov.uk. 
+Alternatively, the Council’s online facilities offer 24 hour access which allows you to raise service requests, make payments and access information; please visit www.northnorthants.gov.uk. 
 <br>
 <br>
 Kind Regards,
@@ -39,7 +39,7 @@ North Northamptonshire Council</b>
 Please note if your query is of a more urgent nature or if you are a council tenant and have an emergency repair outside of our normal opening hours, please contact our Customer Services Team on 0300 126 3000.
 <br>
 <br>
-Please read our Privacy Policy and the relevant Privacy Notice to find out how North Northamptonshire Council processes your personal information: www.northnorthamptonshire.gov.uk/privacy . If you require a printed copy of our Privacy Policy or a Privacy Notice, please contact us.
+Please read our Privacy Policy and the relevant Privacy Notice to find out how North Northamptonshire Council processes your personal information: www.northnorthants.gov.uk/privacynotices. If you require a printed copy of our Privacy Policy or a Privacy Notice, please contact us.
 </div>
 </body>
 </html>

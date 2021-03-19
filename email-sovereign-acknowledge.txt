@@ -3,7 +3,7 @@
 <div id="logo" style="width: 100%; background: #05873A;">
   <center>
     <A HREF="https://beta.northnorthants.gov.uk/">
-      <img style="border: none;" src="https://selfserve.northampton.gov.uk/mycouncil/images/NNClogo.gif" alt="North Northamptonshire Council Logo"/>
+      <img style="border: none;" src="https://selfserve.northampton.gov.uk/mycouncil/images/NNClogo.png" alt="North Northamptonshire Council Logo"/>
     </A>
   </center>
 <div style="font-family:'Arial', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;background: #58686D;Color: White;font-size: 25px;text-align: center"> <label>Your query case reference is AAA</label></div>
@@ -11,10 +11,10 @@
 <div style="font-family:'Arial', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;font-size: 12px;margin: 5px;text-align: left">
 <br>
 <br>
-Thank you for contacting our Customer Service Team at North Northamptonshire Council. We aim to respond to your enquiry within 5 working days.
+Thank you for contacting our Customer Service team at North Northamptonshire Council. We aim to respond to your enquiry within 5 working days.
 <br>
 <br>
-Alternatively, the Council’s online facilities offer 24 hour access which allows you to raise service requests, make payments and access information; please visit www.northnorthamptonshire.gov.uk. 
+Alternatively, the Council’s online facilities offer 24 hour access which allows you to raise service requests, make payments and access information, please visit www.northnorthants.gov.uk. 
 <br>
 <br>
 Kind Regards,
@@ -25,12 +25,12 @@ Kind Regards,
 North Northamptonshire Council</b>
 <br>
 <br>
-<p style="color:#05873A;"><b>Why Wait, Go On-Line - www.northnorthamptonshire.gov.uk</b></p>
+<p style="color:#05873A;"><b>Why wait, go online - www.northnorthants.gov.uk</b></p>
 <br>
-If your query is of a more urgent nature or if you are a council tenant and have an emergency repair outside of our normal opening hours, please contact our Customer Services Team on 0300 126 3000.
+If your query is of a more urgent nature or if you are a council tenant and have an emergency repair outside of our normal opening hours, please contact our Customer Services team on 0300 126 3000.
 <br>
 <br>
-Please read our Privacy Policy and the relevant Privacy Notice to find out how North Northamptonshire Council processes your personal information: www.northnorthamptonshire.gov.uk/privacy.  
+Please read our Privacy Policy and the relevant Privacy Notice to find out how North Northamptonshire Council processes your personal information: www.northnorthants.gov.uk/privacynotices.  
 <br>
 If you require a printed copy of our Privacy Policy or a Privacy Notice, please contact us.
 </div>

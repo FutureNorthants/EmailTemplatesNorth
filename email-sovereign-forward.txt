@@ -3,7 +3,7 @@
 <div id="logo" style="width: 100%; background: #05873A;">
   <center>
     <A HREF="https://beta.northnorthants.gov.uk/">
-      <img style="border: none;" src="https://selfserve.northampton.gov.uk/mycouncil/images/NNClogo.gif" alt="North Northamptonshire Council Logo"/>
+      <img style="border: none;" src="https://selfserve.northampton.gov.uk/mycouncil/images/NNClogo.png" alt="North Northamptonshire Council Logo"/>
     </A>
   </center>
 <div style="font-family:'Arial', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;background: #58686D;Color: White;font-size: 25px;text-align: center"> <label>Your query case reference number is AAA</label></div>
@@ -11,7 +11,7 @@
 <div style="font-family:'Arial', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;font-size: 12px;margin: 5px;text-align: left">
 <br>
 <br>
-Dear ZZZ Colleague
+Dear Colleague
 <br>
 <br>
 The enquiry below was received by the North Northants Email Hub and requires action by your service area.
