@@ -1,12 +1,12 @@
 <html>
 <body>
-<div id="logo" style="width: 100%; background: #05873A;">
+<div id="logo" style="width: 100%; background: #FFFFFF;">
   <center>
     <A HREF="https://beta.northnorthants.gov.uk/">
-      <img style="border: none;" src="https://selfserve.northampton.gov.uk/mycouncil/images/NNClogo.png" alt="North Northamptonshire Council Logo"/>
+      <img style="border: none;" src="https://s3.eu-west-2.amazonaws.com/norberta.northampton.digital/NNClogo.png" alt="North Northamptonshire Council Logo"/>
     </A>
   </center>
-<div style="font-family:'Arial', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;background: #58686D;Color: White;font-size: 25px;text-align: center"> <label>Your query case reference is AAA</label></div>
+<div style="font-family:'Arial', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;background: #58686D;Color: Black;font-size: 25px;text-align: center"> <label>Your query case reference is AAA</label></div>
 </div>
 <div style="font-family:'Arial', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;font-size: 12px;margin: 5px;text-align: left">
 <br>
@@ -23,6 +23,11 @@ Kind Regards,
 <B>Customer Services
 <br>
 North Northamptonshire Council</b>
+<br>
+<br>
+<a href="https://beta.northnorthants.gov.uk">
+<img style="border: none" alt="North Northamptonshire Customer Service Banner" src="https://s3.eu-west-2.amazonaws.com/norberta.northampton.digital/NNCbanner.png">
+</a>
 <br>
 <br>
 <p style="color:#05873A;"><b>Why wait, go online - www.northnorthants.gov.uk</b></p>
