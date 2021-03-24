@@ -6,7 +6,7 @@
       <img style="border: none;" src="https://s3.eu-west-2.amazonaws.com/norberta.northampton.digital/NNClogo.png" alt="North Northamptonshire Council Logo"/>
     </A>
   </center>
-<div style="font-family:'Arial', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;background: #58686D;Color: Black;font-size: 25px;text-align: center"> <label>Your query case reference number is AAA</label></div>
+<div style="font-family:'Arial', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;background: #817f80;Color: White;font-size: 25px;text-align: center"> <label>Your query case reference number is AAA</label></div>
 </div>
 <div style="font-family:'Arial', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;font-size: 12px;margin: 5px;text-align: left">
 <br>
