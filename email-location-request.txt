@@ -25,6 +25,9 @@ Unfortunately, we are unable to process your enquiry until we receive this infor
 Alternatively, the Council’s online facilities offer 24 hour access which allows you to raise service requests, make payments and access information; please visit <a href="www.northnorthants.gov.uk">www.northnorthants.gov.uk</a>. 
 <br>
 <br>
+Your query was - <B>OOO</B>.
+<br>
+<br>
 Kind Regards,
 <br>
 <br>
@@ -41,7 +44,7 @@ North Northamptonshire Council</b>
 </a>
 <br>
 <br>
-Please note if your query is of a more urgent nature or if you are a council tenant and have an emergency repair outside of our normal opening hours, please contact our Customer Services Team on 0300 126 3000.
+Please note if your query is of a more urgent nature or if you are a council tenant and have an emergency repair outside of our normal opening hours, please contact our Customer Services team on 0300 126 3000.
 <br>
 <br>
 Please read our Privacy Policy and the relevant Privacy Notice to find out how North Northamptonshire Council processes your personal information: <a href="www.northnorthants.gov.uk/privacynotices">www.northnorthants.gov.uk/privacynotices</a>. If you require a printed copy of our Privacy Policy or a Privacy Notice, please contact us.

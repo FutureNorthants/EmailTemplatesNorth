@@ -17,13 +17,10 @@ Dear Colleague
 The enquiry below was received by the North Northants Email Hub and requires action by your service area.
 <br>
 <br>
-The customer's email is - <b>KKK</b>
+The customer's query and responses (if any) were - <B>OOO</B>.
 <br>
 <br>
-The customer's query was - 
-<br>
-<br>
-<B>OOO</B>.
+The customer's email address is - <b>KKK</b>
 <br>
 <br>
 Please can you respond directly to the customer to resolve their query.
@@ -32,7 +29,7 @@ Please can you respond directly to the customer to resolve their query.
 The case has been automatically closed on our systems.
 <br>
 <br>
-To redirect the enquiry to:
+<!--To redirect the enquiry to:
 <br>
 <br>
 BWC - <a href="EEE">click here</a>.
@@ -45,7 +42,7 @@ KBC - <a href="EEE">click here</a>.
 <br>
 NCC - <a href="EEE">click here</a>.
 <br>
-<br>
+<br>-->
 Kind Regards 
 <br>
 <br>
