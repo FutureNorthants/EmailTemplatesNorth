@@ -1,9 +1,9 @@
 <html>
 <body>
-<div id="logo" style="width: 100%; background: #05873A;">
+<div id="logo" style="width: 100%; background: #FFFFFF;">
   <center>
     <A HREF="https://beta.northnorthants.gov.uk/">
-      <img style="border: none;" src="https://selfserve.northampton.gov.uk/mycouncil/images/NNClogo.gif" alt="North Northamptonshire Council Logo"/>
+      <img style="border: none;" src="https://s3.eu-west-2.amazonaws.com/norberta.northampton.digital/NNClogo.png" alt="North Northamptonshire Council Logo"/>
     </A>
   </center>
 <div style="font-family:'Arial', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;background: #58686D;Color: White;font-size: 25px;text-align: center"> <label>Your query case reference is AAA</label></div>
@@ -17,17 +17,26 @@ Thank you for emailing North Northamptonshire Council. I am afraid your email ha
 Please visit our <a href="https://www.northnorthants.gov.uk/contactus">Contact Us</a> web page for other ways to get in touch.
 <br>
 <br>
+Please read our Privacy Policy and the relevant Privacy Notice to find out how North Northamptonshire Council processes your personal information: <a href="www.northnorthants.gov.uk/privacynotices">www.northnorthants.gov.uk/privacynotices</a>.  
+<br>
+If you require a printed copy of our Privacy Policy or a Privacy Notice, please contact us.
+<br>
+<br>
 Kind Regards,
 <br>
+<B>Customer Services
 <br>
-<B>NNN</B> - your North Northamptonshire Council virtual assistant
-<BR>
-<BR>
-Thank you for your email to our Customer Service Team at North Northamptonshire Council. We aim to provide a full response within 3 working days; however, if the enquiry has to be referred to another Service Unit you should receive a response within 10 working days.
+North Northamptonshire Council</b>
 <br>
-If your enquiry is of a more urgent nature please contact us during our working hours of Monday to Friday 9.00 a.m. – 5.00 p.m. on 0300 126 3000
-<BR>
-<BR>
+<br>
+<a href="https://www.northnorthants.gov.uk">
+<img style="border: none" alt="North Northamptonshire Customer Service Banner" src="https://s3.eu-west-2.amazonaws.com/norberta.northampton.digital/NNCbanner.png">
+</a>
+<br>
+<br>
+<p style="color:#05873A;"><b>Why wait, go online - www.northnorthants.gov.uk</b></p>
+<br>
+<br>
 </div>
 </body>
 </html>
