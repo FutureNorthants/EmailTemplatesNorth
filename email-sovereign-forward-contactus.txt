@@ -2,7 +2,7 @@
 <body>
 <div id="logo" style="width: 100%; background: #FFFFFF;">
   <center>
-    <A HREF="https://beta.northnorthants.gov.uk/">
+    <A HREF="https://www.northnorthants.gov.uk/">
       <img style="border: none;" src="https://s3.eu-west-2.amazonaws.com/norberta.northampton.digital/NNClogo.png" alt="North Northamptonshire Council Logo"/>
     </A>
   </center>
@@ -14,7 +14,7 @@
 Dear sovereign colleague
 <br>
 <br>
-The enquiry below was received by West Northamptonshire Email Hub and requires action by your service.
+The enquiry below was received by North Northamptonshire Email Hub and requires action by your service.
 <br>
 <br>
 The customer’s name is –  <b>GGG</b>
