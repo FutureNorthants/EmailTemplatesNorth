@@ -20,13 +20,7 @@ The enquiry below was received by North Northamptonshire Email Hub and requires 
 The customer’s name is –  <b>GGG</b>
 <br>
 <br>
-The customer's address is - <b>PPP</b>
-<br>
-<br>
-The customer's email address is - <b>MMM</b>
-<br>
-<br>
-The customer's telephone number is - <b>TTT</b>
+PPPMMMTTT
 <br>
 <br>
 The customer's query and responses (if any) were - <b>OOO</b>
