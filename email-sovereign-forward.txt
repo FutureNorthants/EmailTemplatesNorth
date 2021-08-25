@@ -29,18 +29,10 @@ Please can you respond directly to the customer to resolve their query.
 The case has been automatically closed on our systems.
 <br>
 <br>
-<!--To redirect the enquiry to:
+If this email was recieved in error, please click the correct link below to redirect to the correct sovereign.
 <br>
 <br>
-BWC - <a href="EEE">click here</a>.
-<br>
-CBC - <a href="EEE">click here</a>.
-<br>
-ENC - <a href="EEE">click here</a>.
-<br>
-KBC - <a href="EEE">click here</a>.
-<br>
-NCC - <a href="EEE">click here</a>.
+YYY
 <br>
 <br>-->
 Kind Regards 
