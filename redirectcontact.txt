@@ -17,7 +17,7 @@ THE TEXT BELOW IS PLACEHOLDER TEXT ONLY
 This case was returned from <b>ZZZ</b> - <b>SSS</b> as it was sent there in error.
 <br>
 <br>
-The customer's query and responses (if any) were - <b>OOO</b>.
+The customer's query and responses (if any) were - <b>OOO</b>
 <br>
 <br>
 The case has been automatically closed on our systems.
