@@ -40,7 +40,7 @@ Kind Regards
 Email Hub Virtual Assistant</b>
 <br>
 <br>
-If this email was recieved in error, please click the correct link below to redirect to the correct sovereign.
+If this email was received in error, please click the correct link below to redirect to the correct sovereign.
 <br>
 <br>
 YYY
