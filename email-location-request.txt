@@ -22,7 +22,7 @@ Please confirm the <b>town and postcode that your enquiry relates to</b> within 
 Unfortunately, we are unable to process your enquiry until we receive this information.  If we do not receive this information within 5 working days, we will close your enquiry, however we can reopen this for you once the information is received.  
 <br>
 <br>
-Alternatively, the Council’s online facilities offer 24 hour access which allows you to raise service requests, make payments and access information; please visit <a href="www.northnorthants.gov.uk">www.northnorthants.gov.uk</a>. 
+<a href="www.northnorthants.gov.uk">Our website</a> lets you apply, pay report and find information 24 hours a day, 7 days a week. 
 <br>
 <br>
 Your query was - <B>OOO</B>
@@ -39,12 +39,7 @@ North Northamptonshire Council</b>
 ----------------------------------------------------------------------------------------------------------------
 <br>
 <br>
-<a href="https://beta.northnorthants.gov.uk">
-<img style="border: none" alt="North Northamptonshire Customer Service Banner" src="https://s3.eu-west-2.amazonaws.com/norberta.northampton.digital/NNCbanner.png">
-</a>
-<br>
-<br>
-Please note if your query is of a more urgent nature or if you are a council tenant and have an emergency repair outside of our normal opening hours, please contact our Customer Services team on 0300 126 3000.
+If your query is urgent or if you are a council tenant and have an emergency repair outside of our normal opening hours, please contact our Customer Services team on 0300 126 3000.
 <br>
 <br>
 Please read our Privacy Policy and the relevant Privacy Notice to find out how North Northamptonshire Council processes your personal information: <a href="www.northnorthants.gov.uk/privacynotices">www.northnorthants.gov.uk/privacynotices</a>. If you require a printed copy of our Privacy Policy or a Privacy Notice, please contact us.

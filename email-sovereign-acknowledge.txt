@@ -14,7 +14,10 @@
 Thank you for contacting our Customer Service team at North Northamptonshire Council. We aim to respond to your enquiry within 5 working days.
 <br>
 <br>
-Alternatively, the Council’s online facilities offer 24 hour access which allows you to raise service requests, make payments and access information, please visit <a href="www.northnorthants.gov.uk">www.northnorthants.gov.uk</a>. 
+<a href="www.northnorthants.gov.uk">Our website</a> lets you apply, pay report and find information 24 hours a day, 7 days a week. 
+<br>
+<br>
+Your query was - <B>OOO</B>
 <br>
 <br>
 Kind Regards,
@@ -25,19 +28,13 @@ Kind Regards,
 North Northamptonshire Council</b>
 <br>
 <br>
-<a href="https://www.northnorthants.gov.uk">
-<img style="border: none" alt="North Northamptonshire Customer Service Banner" src="https://s3.eu-west-2.amazonaws.com/norberta.northampton.digital/NNCbanner.png">
-</a>
+----------------------------------------------------------------------------------------------------------------
 <br>
 <br>
-<p style="color:#05873A;"><b>Why wait, go online - www.northnorthants.gov.uk</b></p>
-<br>
-If your query is of a more urgent nature or if you are a council tenant and have an emergency repair outside of our normal opening hours, please contact our Customer Services team on 0300 126 3000.
+If your query is urgent or if you are a council tenant and have an emergency repair outside of our normal opening hours, please contact our Customer Services team on 0300 126 3000.
 <br>
 <br>
-Please read our Privacy Policy and the relevant Privacy Notice to find out how North Northamptonshire Council processes your personal information: <a href="www.northnorthants.gov.uk/privacynotices">www.northnorthants.gov.uk/privacynotices</a>.  
-<br>
-If you require a printed copy of our Privacy Policy or a Privacy Notice, please contact us.
+Please read our Privacy Policy and the relevant Privacy Notice to find out how North Northamptonshire Council processes your personal information: <a href="www.northnorthants.gov.uk/privacynotices">www.northnorthants.gov.uk/privacynotices</a>. If you require a printed copy of our Privacy Policy or a Privacy Notice, please contact us.
 </div>
 </body>
 </html>
